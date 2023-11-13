@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving%World!)
+![header](https://capsule-render.vercel.app/api?type=Waving?text=Hello%World!)
