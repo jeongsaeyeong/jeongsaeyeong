@@ -1,16 +1,24 @@
 <div align="center">
+
+<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/1f41c809-810d-4c33-a318-b2f641717ff6"  width="850"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=0:b8eaf2,100:3782de&fontColor=ffffff&height=220" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=2e2d2a&fontColor=2e2d2a&height=220" />
 </div>
 
-<div align="center" >
+<div align="center" color="2e2d2a">
   <h1>MAKE NEW WORLD</h1>
+  <h2> _classic aesthetics_ </h2>
 </div>
+
+<br/><br/><br/>
 
 >To live a creative life
 >>we must lose our fear of being wrong.
 >>>I believe that if it were left to artists to choose their own labels,
 >>>>>>most would choose none.
+
+<br/><br/><br/>
 
 ***
 
