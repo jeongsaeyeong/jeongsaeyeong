@@ -1,9 +1,8 @@
 <div align="center">
-
-<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/1f41c809-810d-4c33-a318-b2f641717ff6"  width="850"/>
+<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/920944ff-6d3a-4219-8a15-bc35cfcbd984"  width="850"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Slice&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=2e2d2a&fontColor=2e2d2a&height=220" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=2e2d2a&fontColor=2e2d2a&height=300" />
 </div>
 
 <div align="center" color="2e2d2a">
