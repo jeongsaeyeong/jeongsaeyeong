@@ -21,7 +21,7 @@ Education - Linecomputerart <br />
 ***
 
 <div align="center">
-	<p><strong>Skill<strong></p>
+	<h2><strong>Skill<strong></h2>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
