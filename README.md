@@ -38,8 +38,8 @@ Education - Linecomputerart <br />
 </div>  
 
 ***
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongsaeyeong&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jeongsaeyeong&show_icons=true">
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongsaeyeong&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=jeongsaeyeong&show_icons=true">
 
 </div>
