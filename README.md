@@ -4,15 +4,17 @@
 
 <div align="center" color="2e2d2a">
   <h1>MAKE NEW WORLD</h1>
-  <h2> _classic aesthetics_ </h2>
+  <h2> _Let me introduce myself_ </h2>
 </div>
 
 <div align="center">
 <br />
+<h2> 세상과 커뮤니케이션하는 개발자, 정새영입니다. </h2>
+University - Sungshin Women's University <br />
+Major - Media Communication <br />
+Double major - Department of Business Administration <br />
+Education - Linecomputerart <br />
 
-To live a creative life we must lose our fear of being wrong.<br />
-I believe that if it were left to artists to choose their own labels,<br />
-most would choose none.<br />
 <br />
 </div>
 
