@@ -25,7 +25,7 @@ most would choose none.<br />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React.js&logoColor=white"/><br />
-	<img src="https://img.shields.io/badge/Sass-#CC6699?style=flat&logo=Sass&logoColor=white"/><br />
+	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
  	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/><br />
 </div>  
 
