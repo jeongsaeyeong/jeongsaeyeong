@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/920944ff-6d3a-4219-8a15-bc35cfcbd984"  width="850"/>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Slice&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=2e2d2a&fontColor=2e2d2a&height=300" />
 </div>
 
