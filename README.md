@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=Slice&text=Back&fontAlign=30&fontSize=100&animation=fadeIn&color=2e2d2a&fontColor=2e2d2a&height=300" />
 </div>
 
-  
-
-<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/e7a8d5af-6bc8-4d39-807b-30cf4446c8d3" />
 <div align="center" color="2e2d2a">
   <h1>MAKE NEW WORLD</h1>
   <h2> _classic aesthetics_ </h2>
