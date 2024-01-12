@@ -8,16 +8,12 @@
 </div>
 
 
-<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/70929c9a-dd1b-443e-94f9-4544c1cab4f7" /><br />
-
 <br />
 
 To live a creative life we must lose our fear of being wrong.<br />
 I believe that if it were left to artists to choose their own labels,<br />
 most would choose none.<br />
 <br />
-
-<img src="https://github.com/jeongsaeyeong/jeongsaeyeong/assets/140478779/8e24071f-5566-4e56-98f7-6eda7d3bbd6e" />
 
 ***
 
