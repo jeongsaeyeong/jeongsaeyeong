@@ -7,13 +7,14 @@
   <h2> _classic aesthetics_ </h2>
 </div>
 
-
+<div align="center">
 <br />
 
 To live a creative life we must lose our fear of being wrong.<br />
 I believe that if it were left to artists to choose their own labels,<br />
 most would choose none.<br />
 <br />
+</div>
 
 ***
 
