@@ -10,7 +10,7 @@
 <div align="center">
 <br />
 <h2> 세상과 커뮤니케이션하는 개발자, 정새영입니다. </h2>
-University - Sungshin Women's University <br />
+University - Sungshin Women's University :crystal_ball: <br />
 Major - Media Communication <br />
 Double major - Department of Business Administration <br />
 Education - Linecomputerart <br />
