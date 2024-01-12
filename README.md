@@ -7,7 +7,7 @@
   <h2> _Let me introduce myself_ </h2>
 </div>
 
-<div align="center">
+<div align="left">
 <br />
 <h2> 세상과 커뮤니케이션하는 개발자, 정새영입니다. </h2>
 University - Sungshin Women's University :crystal_ball: <br />
