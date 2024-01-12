@@ -27,11 +27,6 @@ most would choose none.<br />
 	<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React.js&logoColor=white"/><br />
 	<img src="https://img.shields.io/badge/sass-#CC6699?style=flat&logo=sass&logoColor=white"/><br />
  	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/><br />
-
- 	<h3>Front-End</h3>
-  
-	
- 	<h3>Backend</h3>
 </div>  
 
 ***
