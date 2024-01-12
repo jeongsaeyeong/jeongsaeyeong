@@ -14,6 +14,7 @@ University - Sungshin Women's University :crystal_ball: <br />
 Major - Media Communication <br />
 Double major - Department of Business Administration <br />
 Education - Linecomputerart <br />
+Contact - <a href="mailto:jeongsaeyeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 <br />
 </div>
