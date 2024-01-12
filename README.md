@@ -26,7 +26,8 @@ most would choose none.<br />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 
  	<h3>Front-End</h3>
-	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white"/><br />
+  
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/><br />
 	<img src="https://img.shields.io/badge/sass-#CC6699?style=flat&logo=sass&logoColor=white"/><br />
 	
  	<h3>Backend</h3>
