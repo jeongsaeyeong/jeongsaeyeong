@@ -46,6 +46,16 @@ Education - Linecomputerart <br /><br />
 </div>
 <br />
 
+<br />
+<div align="center">
+	<h3>GithubBLog</h3>
+	<a href='https://jeongsaeyeong.github.io/'></a>
+
+</div>
+<br />
+
+
+
 ***
 <div align="center">
 	<a href="https://portfolio-01.fly.dev/)https://portfolio-01.fly.dev/">:office: PortFolio</a>
