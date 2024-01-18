@@ -48,8 +48,7 @@ Education - Linecomputerart <br /><br />
 
 <br />
 <div align="center">
-	<h3>GithubBLog</h3>
-	<a href='https://jeongsaeyeong.github.io/'></a>
+	<a href="https://jeongsaeyeong.github.io/">GithubBLog</a>
 
 </div>
 <br />
